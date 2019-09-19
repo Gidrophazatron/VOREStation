@@ -3264,6 +3264,8 @@
 #include "updates\deadspace\necro.dm"
 #include "updates\fireflashie\update_server.dm"
 #include "updates\fluff\ruvorefluff.dm"
+#include "updates\gidrophazatron\cloth.dm"
+#include "updates\gidrophazatron\Hoodie\Hoodie.dm"
 #include "updates\instruments\instruments.dm"
 #include "updates\lowe\ruvr_areas.dm"
 #include "updates\warfoxy\beakers.dm"
