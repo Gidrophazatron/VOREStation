@@ -29,4 +29,5 @@
 	desc = "Daemons' battle suit."
 	icon = 'updates/gidrophazatron/cloth.dmi'
 	icon_state = "daemon_suit"
+	icon_override = 'updates/gidrophazatron/mobicon.dmi'
 	body_parts_covered = UPPER_TORSO|LOWER_TORSO
